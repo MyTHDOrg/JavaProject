@@ -16,7 +16,7 @@
     "github": {
       "org": "MyTHDOrg"
       "repo": "JavaProject",
-      "URL": "https://api.github.com/users/balansaran/repos"
+      "URL": "https://api.github.com/users"
     },
     "fortify": {
       "foldersToScan": "src",
