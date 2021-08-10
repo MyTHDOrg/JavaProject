@@ -14,7 +14,7 @@
       "artifactType": "jar"
     },
     "github": {
-      "org": "MyTHDOrg"
+      "org": "MyTHDOrg",
       "repo": "JavaProject",
       "URL": "https://api.github.com/users"
     },
