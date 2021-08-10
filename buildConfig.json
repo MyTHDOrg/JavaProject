@@ -28,7 +28,7 @@
     "environments": {
       "development": {
         "artifactCategory": "snapshot",
-        "associatedBranchName": "release-candidate",
+        "associatedBranchName": "master",
         "snowfield-lifecycle": "np",
         "gae": {
           "project": "rc-replenishment-thd"
